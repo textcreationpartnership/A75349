@@ -1,0 +1,1445 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The angels oath, time is no longer The kingdoms of this world, are become the kingdoms of our Lord, and of his Christ, and he shall reign for ever and ever, Revel.10.6. and 11,15. A prophecy from Mr. Mason's people at Water-Stratford.</title>
+            <author>Glover, Elizabeth, fl. 1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75349</idno>
+            <idno type="STC">Wing A3163CA</idno>
+            <idno type="STC">ESTC R230971</idno>
+            <idno type="EEBO-CITATION">99896744</idno>
+            <idno type="PROQUEST">99896744</idno>
+            <idno type="VID">170770</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75349)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170770)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2433:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The angels oath, time is no longer The kingdoms of this world, are become the kingdoms of our Lord, and of his Christ, and he shall reign for ever and ever, Revel.10.6. and 11,15. A prophecy from Mr. Mason's people at Water-Stratford.</title>
+                  <author>Glover, Elizabeth, fl. 1694.</author>
+               </titleStmt>
+               <extent>[6], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>Signature at end - Elizabeth Glover.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Devotional literature --  Early works to 1800.</term>
+               <term>Bible. --  N.T. --  Revelation --  Prophecies --  Early works to 1800.</term>
+               <term>Angels --  Early works to 1800.</term>
+               <term>God --  Attributes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170770:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE
+<hi>Angels Oath,</hi>
+               </hi>
+Time is no longer.</p>
+            <q>
+               <p>The KINGDOMS of this
+WORLD, are become
+the KINGDOMS of our
+Lord, and of his Chriſt,
+and he ſhall Reign for
+ever and ever,</p> 
+               <bibl>
+                  <hi>Revel.</hi> 10. 6.
+and 11, 15.</bibl>
+            </q>
+            <p>A
+PROPHECY
+FROM
+Mr. Maſon's People
+AT
+WATER-STRATFORD.</p>
+            <p>
+               <hi>London,</hi> Printed for the Author, 1694.</p>
+         </div>
+         <div type="testimony">
+            <pb facs="tcp:170770:2"/>
+            <pb facs="tcp:170770:2"/>
+            <head>The Teſtimony of Valentine Evans.</head>
+            <p>WO to <hi>London!</hi> Wo to <hi>England!</hi>
+Thou art that Servant which hath
+known thy Maſters Will, but hath not done
+it; but now thou ſhalt be beaten with many
+ſtripes. Oh! how Mercifully hath GOD
+dealt with thee, by warning thee with
+Judgments, and wooing thee with Mercies;
+and thou haſt been favoured highly in this
+reſpect; for the Revelation of Jeſus Chriſt
+hath been given out to us, and the Meſſenger
+of Chriſt's Kingdom hath been ſent to us,
+and his way is prepared.</p>
+            <p>I Witneſs, the <hi>Midnight-Cry</hi> was a
+Meſſage from GOD. I declare, the <hi>Two
+Witneſſes</hi> was a Meſsage from God. I de<g ref="char:EOLhyphen"/>clare
+likewiſe, in the Name of GOD, that
+the gathering of us to this place, was the
+Holy Will and Command of God. A few
+days after we were gathered, I Witneſs,
+the Perſon of the Bleſsed Son of GOD
+<pb facs="tcp:170770:3"/>
+appeared in this place to his Servant, but
+you have ſcoffed and deſpiſed, and forged
+Lies, and called theſe things Deluſions:
+But what will you do now the Lord ſends
+you word, by this fellow Servant, from the
+Oath of Jeſus Chriſt, <hi>That there is Time
+no longer.</hi>
+            </p>
+            <p>A Word to you <hi>Wiſe Virgins,</hi> you that
+love the Lord Jeſus Chriſt in Sincerity;
+you that have ſpoke or acted againſt theſe
+things, you are guilty with the <hi>Fooliſh
+Virgins,</hi> and have expoſed your ſelves to
+Wrath; but, Bleſſed be God, you are not un<g ref="char:EOLhyphen"/>der
+the Law, but under Grace; but you muſt
+apply your ſelves to the Blood of Christ, and
+repent for what you have ſaid, thought, or
+done againſt theſe things, for GOD is a
+great God, and you will Tremble for a time
+for ſlighting theſe things, <hi>Iſa.</hi> 35. 3, 4.
+<hi>ſtrengthen ye the weak hands, and com<g ref="char:EOLhyphen"/>fort
+the feeble knees:</hi> ſay to them that are
+of a fearful heart, <hi>Be ſtrong, fear not:
+Behold, your God will come with Ven<g ref="char:EOLhyphen"/>geance,
+even God with a Recompence,
+<pb facs="tcp:170770:3"/>
+he will come and ſave you;</hi> but it muſt be
+in his own way, and that is in this place,
+which the Lord hath called Zion, where the
+Lord hath taken poſſeſſion in his Kingdom,
+Iſa. 25. 9. <hi>And it ſhall be ſaid in that
+day, Lo, this is our God, we have waited
+for him, and he will ſave us; this is the
+Lord, we have waited for him, we will
+be glad, and rejoyce in his ſalvation.</hi>
+Verſ. 10. <hi>For in this Mountain ſhall the
+hand of the Lord reſt:</hi> It is ſaid ſo this
+day, in this Mountain, bleſſed be God:
+<hi>Where the Body is, there the Eagles ſhall
+be gathered together,</hi> Luk. 17. 37. And
+now 'tis our Duty to look for the breaking
+forth of theſe things viſibly, with an imme<g ref="char:EOLhyphen"/>diate
+expectation.</p>
+            <p>The Grace of our Lord Jeſus Chriſt,
+be with all you that love Him in ſincerity.
+Amen.</p>
+         </div>
+         <div type="testimony">
+            <pb facs="tcp:170770:4"/>
+            <head>The Teſtimony of Thomas Harris.</head>
+            <p>
+               <hi>I</hi> Bear Witneſs to you, in the Name of
+GOD, That this Servant that Writes
+to you this <hi>Little Book,</hi> is one of the
+<hi>Anointed Ones</hi> that ſtood by the GOD
+of the whole Earth, <hi>Zech.</hi> 4. 14. and by
+the Will and Appointment of <hi>GOD Al<g ref="char:EOLhyphen"/>mighty,</hi>
+this Servant did <hi>bear Record
+to the Word of GOD, and to the Te<g ref="char:EOLhyphen"/>ſtimony
+of Jeſus Chriſt,</hi> for Two Years
+together, <hi>Rev.</hi> 1. 2. and now Bleſsed is
+he that hath read, and they that have
+heard the Words of the Prophecy of this
+Book: and I declare, in the Name of GOD,
+that this <hi>Book</hi> that comes to you, is the
+<hi>open Book</hi> out of <hi>Chriſt</hi>'s Hand, <hi>Rev.</hi> 10.
+2. and it is turned into <hi>Bitterneſs</hi> in the
+Bowels of this Nation, <hi>Lamentations,
+Mournings,</hi> and <hi>Woe:</hi> And now the
+<hi>LORD</hi> comes like a <hi>Refiner</hi>'s Fire, and
+like <hi>Fuller</hi>'s Soap: But now Bleſsed are
+all they that put their Trust in <hi>CHRIST.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:170770:4"/>
+            <epigraph>
+               <bibl>Revelations 10. 6. and 11. 15.</bibl>
+               <q>Time is no longer. The kingdoms of this world are
+become the kingdoms of our Lord, and of his Christ,
+and he ſhall reign for ever and ever.</q>
+            </epigraph>
+            <p>
+               <hi>IT is the Will and Pleaſure of God, that his
+dealings to this poor miſerable Nation, ſhould
+be given an Account of, for a Warning and
+Witneſs to all round about, that they take heed,
+that they do not dally and triffle with the Word of
+God, and the Teſtimony of Jeſus Chriſt; but Fear
+and Tremble before a Crowned</hi> Solomon, <hi>and give
+Glory to him, for the hour of his Judgment is come.
+Worſhip that God that hath made</hi> the new Heavens
+and the new Earth. Thou ſhalt break them with a rod
+of iron, thou ſhalt daſh them in pieces like a Potters
+veſſel. Be wiſe now therefore, O ye kings: be in<g ref="char:EOLhyphen"/>ſtructed
+ye judges of the earth. Serve the Lord
+with fear, and rejoice with trembling. Kiſs the ſon,
+leſt he be angry, and ye periſh from the way, when
+his wrath is kindled but a little: bleſſed are all they
+that put their truſt in him, <hi>Pſal.</hi> 2. 9, 10, 11, 12.
+Now go, write it before them in a table, and note it
+in a book, that it may be for the time to come for ever
+and ever: That this is a rebellious people, lying chil<g ref="char:EOLhyphen"/>dren,
+that will not hear the law of the Lord: Which
+<pb n="2" facs="tcp:170770:5"/>
+ſay to the ſeers, See not; and to the prophets, Pro<g ref="char:EOLhyphen"/>pheſy
+not unto us right things, ſpeak unto us ſmooth
+things, propheſy deceits: Get you out of the way, turn
+aſide out of the path, cauſe the holy one of Iſrael to ceaſe
+from before us, <hi>Iſa.</hi> 30. 8, 9, 10, 11.</p>
+            <p>Sad and woful Accounts to be given up, what
+entertainment the Word of God, and the Teſti<g ref="char:EOLhyphen"/>mony
+of our Lord Jeſus Chriſt met with, that was
+firſt given forth in <hi>England;</hi> we witneſs, the Trum<g ref="char:EOLhyphen"/>pet
+was ſounded ſeveral Years of the Coming and
+Kingdom of our Lord, but they all ſlumbered and
+ſlept; but they was told again and again, how
+often that Word was commanded in the Scripture
+<hi>Watch,</hi> and that the day was come, God com<g ref="char:EOLhyphen"/>manded
+every one to it.</p>
+            <p>The Lord threatens to cut them down; for he
+had looked for Fruit Year after Year, but found
+none; loth was he to ſtrike, tryes them one Year
+more, but ſwares, <hi>Time ſhall be no longer;</hi> but whilſt
+the Miſtery of God was finiſhed, the Lord was then
+proclaimed; <hi>He's brought to the ancient of days:
+And there was given him a Kingdom, and Glory, that
+all Nations, People, and Languages, ſhould ſerve him,</hi>
+Dan. 7. 13, 14.</p>
+            <p>
+               <hi>The many Crowns was now ſet upon his head,</hi> Rev.
+19. 12. He was proclaimed to the ends of the
+Earth. <hi>Zions</hi> God now reigns. The Earth ſaw
+and trembled, the Heavens were all on Flames of
+Fire, whilſt dreadful Thundrings and Lightnings
+proclaim our King; but here is none regard.</p>
+            <p>
+               <pb n="3" facs="tcp:170770:5"/>
+The Trumpets blew in the Ears of the dead; <hi>it
+was declared,</hi> That Christ was on his great white
+Throne; <hi>he finds all old, but makes all new.</hi>
+            </p>
+            <p>The Lord calls, bring in thoſe poor Worms, let
+them bear witneſs in that day: <hi>The deaf heard the
+words of the Book, and the Eyes of the blind were
+opened.</hi>
+            </p>
+            <p>The Lord plants the Heavens, lays the Founda<g ref="char:EOLhyphen"/>tion
+of the Earth, calls <hi>Zion,</hi> brings in the ends of
+the Earth. The Beaſt is given to the burning flame,
+he lays hold on the Dragon, (that old Serpent)
+and binds him for 1000 Years. Thus things went
+on, until the glorious Miſtery of God was finiſhed;
+<hi>and the voice came from the Throne, out of the Temple
+of heaven, ſaying, It is done,</hi> Rev. 16. 17.</p>
+            <p>Often then it was declared, in the Name of
+God, <hi>It is done,</hi> It is fulfilled, but they would not
+believe: Then was <hi>Philadelphia</hi> called in to bare
+witneſs what ſhe had ſeen done; ſhe witneſſed, that
+the Heavens were planted, and the Foundations of
+the Earth laid; for ſhe <hi>ſaw the new Heavens and
+the new Earth;</hi> ſhe witneſſeth the New Covenant
+for <hi>Zion,</hi> for ſhe <hi>ſaw the new Jeruſalem coming down
+from God out of heaven, prepared as a bride adorned
+for her husband.</hi> She atteſts, in the Name of God,
+the hearing of that mighty Voice, <hi>The tabernacle
+of God is with men.</hi> She muſt bear witneſs to the
+Words of the Prophecy of the Book; and ſay as
+God ſaith, <hi>There is no more ſorrow, death, nor pain,
+for the former things are paſt. He hath ſate on his
+<pb n="4" facs="tcp:170770:6"/>
+throne, and made all new. And he ſaid unto me, Write,
+for theſe words are true and faithful. And he ſaid
+unto me, It is done.</hi> And this day is this Scripture
+fulfilled in your Ears. <hi>And he hath given the waters
+of life,</hi> and hath repleniſhed every ſorrowful Soul
+that hath waited for him; they have <hi>Overcome,</hi>
+and are on the Sea of Glaſs, with the Harps of <hi>God,</hi>
+and they ſing the Song of <hi>Moſes,</hi> and the Lamb.
+<hi>But the fearful, and unbelieving, and the abominable,
+and the murderers, and whoremongers, and ſorcerers,
+and idolaters, and all liars, have their part in the lake
+that burneth with fire and brimſtone: which is the
+ſecond death,</hi> Rev. 21. 1, 2, 3, 4, 5, 6, 7, 8.</p>
+            <p>The Lord commands the Witneſs to go on; ano<g ref="char:EOLhyphen"/>ther
+comes and ſays, <hi>I ſaw an angel aſcending from
+the eaſt, having the ſeals of the living God: And he
+ſealed the ſervants of our God on their forehead,</hi> Rev.
+7. 2, 3. Another Witneſs was brought, that he
+hath <hi>meaſured the temple, and the altar, and them
+that worſhip therein. But the outward court is given
+unto the Gentiles<g ref="char:punc">▪</g>
+               </hi> Rev. 11. 1, 2. <hi>He hath opened
+his Seals, ſounded his Trumpets, poured out his Vials,
+and bleſſed all his Churches.</hi> Thus the Witneſs
+went on from day to day, until all Accounts was ta<g ref="char:EOLhyphen"/>ken,
+and given in: <hi>Philadelphia</hi> ſometimes trem<g ref="char:EOLhyphen"/>bling
+and quaking before the Majeſty of Heaven,
+often acknowledging what an awful ſolemn thing
+it was, to bear witneſs to the Word of God, and Te<g ref="char:EOLhyphen"/>ſtimony
+of Jeſus Chriſt; other times aſtoniſhed and
+amazed, to think, that Miſtery the Angels deſire to
+<pb n="5" facs="tcp:170770:6"/>
+pry into, ſhould ever be broken up among a few
+poor Worms, The Lord declares, <hi>That he hath fi<g ref="char:EOLhyphen"/>niſhed
+the heavens, and the Earth, and all the hoſts
+thereof;</hi> as in the firſt Creation, <hi>All was done by his
+Word;</hi> ſo now it is again, <hi>not by Might, nor by Power,
+but by my ſpirit, ſaith the Lord of hoſts,</hi> Zech. 4. 6.</p>
+            <p>And the Witneſs of the two anointed ones, was
+the Witneſs of God himſelf: Now, who durſt have
+denied the ſound of the ſeventh Angel, when God
+had called in a Witneſs, that theſe Miſteries were
+finiſhed, or that this was the Angel that was to be
+ſent, to ſhew the things that muſt be done in a
+ſhort time. When Scripture Witneſs was brought
+in, that all theſe things are done, it was a very im<g ref="char:EOLhyphen"/>probable
+thing, that one, whoſe Unction from the
+Holy One, for the Work of the Miniſtry, had been
+ſealed for ſo many Years, with the Converſion
+of ſo many Souls, ſhould at laſt deceive the
+World, and delude poor Souls; but as for thoſe
+poor Creatures that bear witneſs to theſe things,
+they were not ſuſpected of that, being looked upon
+as not capable to delude or deceive others; but
+that they were deluded themſelves. It is poſſible,
+had it been things of another nature, you might
+have brought them off, by telling them, that their
+bodily Eyes had deceived them, and all their Senſes
+were deluded: But if you come to deal with them
+about the Word of God, and Teſtimony of Jeſus,
+you might as well pull down the Sun, and darken
+the World, as ever prevail againſt it; for it is the
+<pb n="6" facs="tcp:170770:7"/>
+Teſtimony of that God which is infallible, there<g ref="char:EOLhyphen"/>fore
+infinitely impoſſible that ever any thing that
+is offered againſt it ſhould ſtand; it will be the
+utter undoing of all them that ſhall oppoſe it: for
+tho' theſe be never ſuch poor weak contemptable
+Creatures, yet what they witneſs to is the Word
+of God, and Teſtimony of Jeſus, and there is no
+more to be ſaid. Evidence having been given,
+<hi>That the miſtery of God is finiſhed; the mighty Angel
+he comes down with a rainbow on his head, and a little
+book open in his hand, and ſwares by him that lives
+for ever and ever, Time is no longer.</hi> Come
+away <hi>Philadelphia,</hi> and own his Kingly Dignity
+and Honour; they had not been long dancing be<g ref="char:EOLhyphen"/>fore
+the Ark, ere the Lord appeared to his Servant,
+this he owns before many Witneſſes, warns them
+once more to get Oyl, others to go home, and
+trim their Lamps, they have no time to ſpare, they
+ſhould have <hi>Watched,</hi> that God that hath appeared
+in this place, will quickly appear to you all; but
+what do theſe Wretches do, but go and make
+all the haſt and ſpeed they can, to turn theſe things
+into fooliſh ridiculous Stories, to be cry'd up and
+down the Streets; and ſo far are they from any
+fear or concern upon them, at ſuch a wonderful
+time as this is, that they make merry, and ſport
+themſelves at the Word of God, and Revelation of
+Jeſus. It would make a Chriſtian's Heart tremble,
+to think what a God-daring Generation the Earth
+groans under. And now the Lord comes, like a
+<pb n="7" facs="tcp:170770:7"/>
+Lyon, rends and tears the very cauls of their hearts;
+they would take no Warning, till they were daſhed
+in pieces; but all the Wit and Art they have muſt
+be laid together, to make the Word of God, and
+Revelation of Jeſus, the Scorn and Deriſion of the
+whole Nation, without any ſtop being put to theſe
+things, there was none to do it. The Lord ſought
+but for a Man to ſtand in the gap to make up the
+hedge, that he ſhould not deſtroy the Land, but he
+finds none, good and bad all give in their Verdicts,
+that the Word of God, and Teſtimony of Jeſus
+Chriſt, was a Deluſion; and ſo here is an end of all
+theſe things, until God calls for another Account.</p>
+            <p>
+               <hi>But we do atteſt, in the Name of the Eternal
+God, That the ſounding of the quick and ſudden
+Coming of our Lord and Saviour, was the ſound
+of the ſeventh Angel, and God hath given infallible
+Proof and Witneſs, for the Miſtery of God is finiſh<g ref="char:EOLhyphen"/>ed,
+as he declared it to his Servants, and as it was
+declared when the Trumpet firſt began to ſound,
+ſo now all is done, and the ſolemn Oath of the Eter<g ref="char:EOLhyphen"/>nal
+God is to be given to you, to deſide all matters
+of Controverſy, and you ſhall know whoſe Words
+ſhall ſtand, His, or yours,</hi> Rev. 10. 5, 6, 7. And the
+angel which I ſaw ſtand upon the ſea, and upon the
+earth, lifted up his hand to heaven, And ſware by him
+that liveth for ever and ever, who created heaven, and
+the things that therein are; and the earth, and the
+things that therein are; and the ſea, and the things
+which are therein, that there ſhould be time no longer:
+<pb n="8" facs="tcp:170770:8"/>
+But in the days of the voice of the ſeventh angel, when
+he ſhall ſound, and the miſtery of God be finiſhed, as
+he hath declared unto his ſervants the prophets. <hi>The
+ſeventh Angel hath ſounded, and the Myſtery of
+God is finiſhed, and there is time no longer, not a
+Moment, nor a Minute, for,</hi> The kingdoms of this
+world are become the kingdoms of our Lord, and of
+his Christ, and he ſhall reign for ever and ever, <hi>Rev.</hi>
+11. 15. Blow ye the trumpet in Zion, and ſound an
+alarm in my holy mountain: let all the inhabitants of
+the earth tremble: for the day of the Lord cometh,
+it is nigh at hand, <hi>Joel</hi> 2. 1. A voice from the city, a
+voice from the temple, a voice of the Lord that ren<g ref="char:EOLhyphen"/>dreth
+recompenſe to his enemies, <hi>Iſa.</hi> 66. 6.</p>
+            <p>
+               <pb n="9" facs="tcp:170770:8"/>
+And he ſaith unto me, Seal not the ſayings of the
+Propheſie of this Book, for the time is at hand.</p>
+            <p>He that is unjuſt, let him be unjuſt ſtill: and he
+which is filthy, let him be filthy ſtill: and he that
+is righteous, let him be righteous ſtill: and he
+that is holy, let him be holy ſtill.</p>
+            <p>And behold, I come quickly, and my reward is with
+me, to give to every Man according as his work
+ſhall be, <hi>Revel. 12. chap.</hi> 10, 11, 12.</p>
+            <p>YOU are to take notice, That the <hi>Rage</hi> and <hi>Tu<g ref="char:EOLhyphen"/>mult</hi>
+that hath been in this Nation, hath been
+againſt the Revelation of <hi>Jeſus Chriſt,</hi> which God
+gave him, to ſhew to his Servants; and this Bleſ<g ref="char:EOLhyphen"/>ſed
+Servant of God, (that hath been trampled, as
+the Mire in the Streets, is that Angel ſpoke of in
+the <hi>Revelations,</hi> that was ſent to ſhew Gods Ser<g ref="char:EOLhyphen"/>vants
+the things that muſt be done in a ſhort time;
+therefore, there is no anſwer can be given to God
+for theſe things, when his Word had expreſsly ſpoke
+of a Meſſenger that was to come; and the day
+came, and the Meſſenger was ſent; and this was
+Witneſſed to them by a certain number of Souls
+that God appointed to be Witneſſes, that God had
+ſhewed the things that muſt be done in a ſhort
+time, but they wilfully ſhut their Eyes: God hath
+worked a work, and a marvellous work, but they
+would not Believe, though it was told them.</p>
+            <p>
+               <pb n="10" facs="tcp:170770:9"/>
+I further bear Witneſs, that the Woman in the
+Wilderneſs, hath brought forth a Man Child, that
+ſhall rule all Nations with a Rod of Iron; and tho'
+the Dragon hath raged &amp; blaſphemed, and this day
+thrown a third part of the Stars to the Earth; yet
+all is in Vain, for the Child is caught up to God,
+and to his Throne, <hi>Revel. 12. And our God hath ſet
+up a kingdom which ſhall never be deſtroyed; but it
+ſhall break and deſtroy all kingdoms, and it ſhall
+ſtand for ever and ever.</hi> And all theſe things that
+have been here done in Spirit and in Miſtery, ſhall
+quickly be made viſible and ſenſible things in the
+ſight of all the World.</p>
+            <p>THE Revelation of Jeſus Christ, which God
+gave unto him, to ſhew unto his ſervants the
+things which muſt ſhortly come to paſs; and he ſent
+and ſignified it by his angel unto his ſervant John:
+Who bare record of the word of God, and of the teſti<g ref="char:EOLhyphen"/>mony
+of Jeſus Christ, and of all things that he ſaw,
+<hi>Rev. 1. 1, 2. I bear witneſs, That in the Year 1689,
+there came a Meſſenger from God, and declared,</hi>
+That the Lord would have a Kingdom in this World,
+and the time draws near, behold I come quickly, and
+ſurely I come quickly, <hi>Rev.</hi> 22. God will deliver
+the creation from the bondage of corruption, into the
+glorious liberty of the ſons of God, <hi>Rom.</hi> 8. And
+there ſhall be no more ſorrow, nor death, nor pain, he
+will ſit upon the throne, and make all new; the taber<g ref="char:EOLhyphen"/>nacle
+<pb n="11" facs="tcp:170770:9"/>
+of God ſhall be with men; there ſhall be a new
+heaven, and a new earth, and Babylon ſhall be thrown
+down; the Jews called; and the ends of the earth
+brought in; and the Dragon chained.</p>
+            <p>God commands the Trumpet to be ſounded, <hi>Re<g ref="char:EOLhyphen"/>pent
+quickly, or you will be in hell quickly.</hi> When
+the ſhewing time and fufilling Miſtery was ended,
+one of <hi>Philadelphia</hi> received this Word from God,
+<hi>He hath ſent his angel to ſhew the things that muſt be
+done in a ſhort time:</hi> Now they are to be done.
+The Lord's Servant alſo himſelf declared, <hi>That the
+hand of God had been ſtrong upon him, to write, the
+words that I have ſpoken ſhall be done, ſaith the Lord.</hi>
+And now a new courſe was ſpeedily entered upon,
+<hi>The heavens are planted, and the foundations of the
+earth laid, and now God ſaith unto Zion, thou art my
+people,</hi> Iſa. 5. 6. In which time, we <hi>ſaw the new
+heaven, and the new earth, and heard that mighty
+voice, The tabernacle of God is with man: And he
+that ſits on the throne, and ſaith, Behold, I make all
+things new; And there is a rainbow round about the
+throne,</hi> Rev. 4. 3. At this time, that <hi>Bleſſed Oath</hi>
+that hath ſtood ſo many 100 Years in <hi>Rev.</hi> 10. 6.
+is ſworn in the heart of a poor Worm, to be a Sign
+and a Witneſs to the Church of <hi>Philadelphia,</hi> that
+God remembers the <hi>Oath</hi> which he ſware to <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi>
+that ancient <hi>Oath</hi> and <hi>Covenant</hi> which we ſo
+often read of in the Word of God; <hi>And this ſhall
+be as the waters of</hi> Noah <hi>unto me: the mountains
+ſhall depart, and the hills be removed; but the cove<g ref="char:EOLhyphen"/>nant
+<pb n="12" facs="tcp:170770:10"/>
+of his peace ſhall never be removed,</hi> Iſa. 54. 9, 10.
+And now the Rainbow appear'd, Temptations,
+Sins, and Sorrows, were all on a ſudden removed
+and took away, and I wrapt up into thoſe Kingdom
+Joys, that I ſcarce knew what they were doing
+here on Earth: But I can bear witneſs, <hi>That I ſaw
+the heavens planted, and the foundations of the earth
+laid, and that God ſaid to Zion, thou art my people,</hi>
+Iſa. 51. 16. At this time the Voices were heard,
+the Viſions ſeen ſet down in the Book of the <hi>Reve<g ref="char:EOLhyphen"/>lations,</hi>
+and Witneſs born to the keeping of theſe
+Sayings of the Prophecy of that Book. The time
+that was taken up in the fulfilling of theſe things
+continued near 2 Years, to my beſt Remembrance;
+but before all was finiſhed, a ſign of Deliverance
+was given to the Church of <hi>Philadelphia:</hi> theſe
+Words being ſent to the Lord's Servant, that he
+having looked upon the Sorrows of his poor loſt
+<hi>Zion, Lifts up his hand to heaven, and ſwares by him
+that liveth for ever and ever, that there ſhould be
+time no longer:</hi> And, <hi>Here now, O Joſhua the high
+priest, thou and thy fellows, ye are men wondred at:
+but behold, I bring forth my ſervant the BRANCH,</hi>
+Zech. 3. 8. Eſtabliſhed for ever is his Word in
+Heaven; ſignified, ſealed, and ratified upon Earth;
+but we knew not what theſe things meant, until
+the Lord's Servant came with theſe Words from
+God; <hi>Behold the Man, whoſe name is the BRANCH.</hi>
+See the Chriſt of God given to you out of the Fa<g ref="char:EOLhyphen"/>ther's
+own hand; here's the viſible, ſenſible, un<g ref="char:EOLhyphen"/>vailed
+<pb n="13" facs="tcp:170770:10"/>
+Chriſt performed to you: <hi>And the ſeventh
+angel poured out his vial into the air; and a great
+voice came out of the temple of heaven from the throne,
+ſaying, It is done,</hi> Rev. 16. 17. Enter <hi>Philadelphia,</hi>
+in the Name of the Father, and of the Son, and of
+the Holy-Ghoſt; the Lord he declares the Reve<g ref="char:EOLhyphen"/>lation
+(which is a Prophecy of a Prophecy) is
+fulfilled; <hi>The voices have been heard, and the viſions
+ſeen, and the words of the prophecy of the book have
+been kept from that word,</hi> Rev. 1. 3. <hi>Bleſſed is he
+that reads, and they that hear,</hi> until that Sentence
+was pronounced upon them, <hi>They ſhall reign for
+evermore,</hi> Rev. 22. <hi>And then the mighty angel came
+down with a rainbow on his head; and the little book
+open in his hand, and lift up his hand to heaven, and
+ſware by him who lives for ever and ever, who created
+the heaven, and the things that therein are; and the
+earth, and the things that therein are; and the Sea,
+and the things that therein are; that there ſhould
+be time no longer.</hi> O joyful happy day. And the
+Lord himſelf deſcended from Heaven with a Shout,
+and with the Voice of the Arch-Angel, and the
+Ark of his Teſtament was ſeen in his Temple, and
+they were called to return thanks to God, and
+to ſing with gladneſs for <hi>Jacob;</hi> and the Lord ap<g ref="char:EOLhyphen"/>peared
+to his Servant, as a <hi>Zion</hi>'s God, and then re<g ref="char:EOLhyphen"/>ceived
+him to himſelf, on whom he had writ the
+Name of the City of his God; <hi>for the new Jeruſa<g ref="char:EOLhyphen"/>lem
+comes down out of heaven from God,</hi> Rev. 21. 2,
+10, 11. I witneſs, That this <hi>Oath</hi> continued with
+<pb n="14" facs="tcp:170770:11"/>
+that ſtrength and power upon me, that (like Fire)
+it broke through all that was caſt upon me, to
+damp it, till the ſame Words were put into his Ser<g ref="char:EOLhyphen"/>vants
+Mouth, according to that Scripture, <hi>Iſa.</hi> 59.
+21. and then the Everlaſting Covenant being pro<g ref="char:EOLhyphen"/>nounced,
+with the <hi>Oath</hi> of the Eternal God, it was
+declared, in the Name of God, That the Lyon of
+the Tribe of <hi>Judah</hi> had prevailed, and they that
+had kept the Words of the Prophecy of this Book,
+are all Conquerours in Him; and as we had derived
+all Guilt and Miſery, Death and Sorrow, in the
+firſt <hi>Adam;</hi> ſo now we are come to inherit all Grace,
+Glory, and Comfort, which came by the New; we
+are come to the Blood of ſprinkling, &amp; to the Spirits
+of juſt Men made perfect, <hi>Heb.</hi> 12. And that God
+that had ſet the bounds to the old <hi>Adam,</hi> hath took
+an <hi>Oath</hi> of the time, and he is curſed and gone for
+ever; <hi>The Seed of the woman hath broke the ſerpent's
+head. I heard a loud voice ſaying in heaven, Now is
+come ſalvation, and ſtrength, and the kingdom of our
+God, and the power of his Chriſt,</hi> Rev. 12. 10. After
+theſe things the Lord ſhewed us, as there had been
+a dark and obſcure Sign in the Church of <hi>Phila<g ref="char:EOLhyphen"/>delphia,</hi>
+a <hi>Rainbow,</hi> and a pouring down of the
+Spirit, for a Covenant for <hi>Zion,</hi> Iſa. 59. 21. ſo now
+there ſhould be a bright and glorious <hi>Sign, Iſa.</hi> 66.
+18, 19. And he will bring all Nations, and they
+ſhall ſee his Glory, for he will ſet up a<g ref="char:punc">▪</g> Sign amongſt
+them; and in this Mountain will the Lord take
+away the Vail that is ſpread over all Nations, for
+<pb n="15" facs="tcp:170770:11"/>
+he will ſwallow up Death in Victory, <hi>Iſa.</hi> 25. 7, 8.
+After theſe things God ordered it to be declared,
+That the days of the voice of the ſeventh Angel
+was ended, he had finiſhed his courſe, and kept
+the Faith, and received the Crown of Righteouſ<g ref="char:EOLhyphen"/>neſs,
+which the Lord, the Righteous Judge, had
+given him; and that the Church of <hi>Philadelphia</hi>
+is that Stone ſpoke of, <hi>Zech.</hi> 3. 9. And that Stone
+ſhall bear witneſs, for it hath heard all the words
+of the Prophecy of that Book: And, in the Name
+of God it was declared, That the Law of God was
+writ upon that Stone, according to theſe Words,
+<hi>Jer. 31. 33. The day is come, ſaith the Lord<g ref="char:punc">▪</g> that I
+will make a new covenant with the houſe of Iſrael, and
+with the houſe of Judah, and I will put my law in
+their inward parts, and write it in their hearts.</hi>
+            </p>
+            <p>
+               <hi>Object I.</hi> This means Zion.</p>
+            <p>
+               <hi>Anſwer.</hi> This is <hi>Zion</hi>'s Repreſentative, this is
+that elect Seed that was to inherit God's Holy
+Mountain, as you may ſee, <hi>Iſa. 65. 9. Rev.</hi> 3. 12.
+I will write upon them the name of the City of my God.</p>
+            <p>
+               <hi>Object II.</hi> Where is this New Covenant?</p>
+            <p>Anſwer. I ſaw a mighty angel come down from hea<g ref="char:EOLhyphen"/>ven
+with a rainbow upon his head; and the angel which
+I ſaw ſtand upon the ſea, and upon the earth, lift up
+his hand to heaven, and ſware by him that liveth for
+ever and ever, that time ſhould be no longer. <hi>I bear
+witneſs, in the preſence of God, this</hi> Oath<g ref="char:punc">▪</g> 
+               <hi>hath been
+ſworn and performed to the Church of</hi> Philadel<g ref="char:EOLhyphen"/>phia,
+<hi>as</hi> Zion<hi>'s repreſentative,</hi> Iſa. 59. 21. As for
+<pb n="16" facs="tcp:170770:12"/>
+me, this is my covenant, ſaith the Lord, My ſpirit
+that is upon thee, and the words that I have put into
+thy mouth, ſhall not depart out of thy mouth, nor out of
+the mouth of thy ſeeds ſeed, ſaith the Lord, from
+henceforth and for ever. Ariſe, ſhine, for thy light
+is come, and the glory of the Lord is riſen upon thee,
+<hi>Iſa. 50. 1. I bear witneſs, That the Angel of the
+Church of</hi> Philadelphia <hi>hath the higheſt badge of
+Honour writ on him, that ever was engraven on
+the Sons of Men;</hi> For he hath writ on him the name
+of God, and the name of the city of his God, which is
+new Jeruſalem, which comes out of heaven from God,
+<hi>Rev. 3. 12. and</hi> 21. 2, 10, 11. He writ on him
+his new name, <hi>King of kings, and Lord of lords;
+for as he repreſented our Lord Jeſus in all his Offi<g ref="char:EOLhyphen"/>ces
+of the Kingdom, during the time they were
+done in Spirit and Miſtery; ſo he ſhall do a<g ref="char:EOLhyphen"/>gain,
+when they are done viſibly and ſenſibly in the
+Eyes of all the World; and as we have heard that
+mighty Voice, ſaying,</hi> Babylon the great is fallen,
+is fallen; <hi>ſo we ſhall ſee that</hi> other angel come down
+from heaven, having great power, and the earth ſhall
+be lightned with his glory, <hi>Rev.</hi> 18. He was that olive<g ref="char:EOLhyphen"/>tree
+that ſtood on the right-ſide of the bowl, that was on
+the top of the golden candleſtick. He was that anointed
+one that ſtood before the God of the whole earth, <hi>Zech.</hi>
+4. 14. He is that prophet that had power to ſmite
+the earth with all manner of plagues, as oft as he
+would, <hi>Rev.</hi> 11. 6. For the land is utterly emptied,
+and ſpoiled: the Lord hath ſpoken this word, <hi>Iſa.</hi> 24. 3.
+<pb n="17" facs="tcp:170770:12"/>
+               <hi>but the dreadful Sentences of his Judgments are
+now to be executed on a ſinful God-daring Gene<g ref="char:EOLhyphen"/>ration,
+that ſcorned to take any Warning, till
+Himſelf ſhould come and take Vengeance on them.
+Yet bleſſed be his glorious Name; there is a</hi> Rain<g ref="char:EOLhyphen"/>bow
+<hi>round about his Throne, and when he ſhall
+bring a Cloud and cover the Earth, the</hi> Bow <hi>ſhall
+be ſeen in the Cloud, and he will remember the</hi>
+Everlaſting Covenant: <hi>Glory to the Righteous, we
+have a full aſſurance of Faith, we ſhall ſee an innu<g ref="char:EOLhyphen"/>merable
+Company of all Kindreds, People, Tongues
+and Nations with white Robes, and Palms in their
+hands, crying,</hi> Salvation to him that ſits on the throne<g ref="char:punc">▪</g>
+and to the lamb for ever and ever. <hi>And for all
+theſe things, Bleſſing, Glory, Wiſdom, Honour, and
+Might, be unto our God for ever and ever.</hi>
+            </p>
+            <div type="part">
+               <head>Laws, Statutes, and Judgments, to
+the Church of Philadelphia.</head>
+               <p>THAT that I am to Witneſs to you now, is
+that which was declared by the Lord's Ser<g ref="char:EOLhyphen"/>vant,
+whilſt the Myſtery of God was finiſhed, and
+witneſſed by the Church of <hi>Philadelphia,</hi> was the
+<hi>Laws, Statutes,</hi> and <hi>Judgments</hi> of the Eternal God,
+that ſtand faſt for ever and ever, throughout all
+Generations. And when the Word came forth in
+the Father's Seaſon; <hi>He that ſits on the throne ſaith,
+<pb n="18" facs="tcp:170770:13"/>
+behold, I make all things new:</hi> The Lord pointed
+me to Witneſs to it, and write it down, and gave
+it to his Servant; 'tis gone forth in Righteouſneſs,
+and ſhall return no more, till it hath formed <hi>the
+new heaven, and the earth.</hi> You will ſay, How
+ſhould I know, that that Word was gone forth in
+Righteouſneſs. Alas! I knew no more than a ſtock,
+or a ſtone; but the Lord made me know that it
+was the Word of God, and the Teſtimony of Jeſus,
+and that I muſt bear witneſs to it; and I could
+have no eaſe in my Conſcience till I had done it;
+and again, <hi>when the heavens were planted, and the
+foundations of the earth laid, and he ſaid to Zion,
+thou art my people.</hi> That Lord ſent me to bear wit<g ref="char:EOLhyphen"/>neſs;
+<hi>I ſaw the new heaven, and the new earth; and
+he had ſworn in my heat, time ſhould be no longer:
+The day is come, he makes a new covenant with the
+houſe of Iſrael,</hi> Jer. 31. 31. Theſe Myſteries were
+as far above the reach of ſuch a poor Worm as I,
+as the Heavens are above the Earth; for, when I
+was ſo wrapt up in the ſight of <hi>the new heavens,
+and the new earth,</hi> I could not forbear ſaying, as I
+went up and down, <hi>I ſee a new heaven, and a new
+earth;</hi> it was as wonderful to me, when I heard
+thoſe Words, <hi>Rev.</hi> 21. as if I had never known
+there had been any ſuch Scripture: therefore God
+forbid that you ſhould think there was any thing
+in the Creature in theſe things; I did alſo, about
+this time, ſeveral times here Voices, and they were
+thoſe Voices in <hi>Revelations;</hi> and I knew when I
+<pb n="19" facs="tcp:170770:13"/>
+heard it, it was the Voice of God, differing from
+all other that ever I heard in all my life-time; and
+when-ever I heard a Voice, or ſaw a Viſion, or
+bore witneſs to any of the Words of the Prophecy
+of that Book, I was ſo awed with it, that I durſt
+never entertain a thought ever any more againſt it;
+it became a perpetual law in my Soul; and when
+the Bleſſing was pronounced upon the Church of
+<hi>Philadelphia</hi> in a Miniſterial way, the Lord ſent me
+to bear witneſs to it, <hi>Rev. 1. 3. Bleſſed is he that
+readeth, and they that hear the word of the prophecy
+of this book:</hi> and he had declared the Downfall of
+<hi>Babylon,</hi> and the chaining of Satan; the Lord made
+us ſee it done in an Angelical way, and ſo bare
+witneſs to it, according to theſe words, <hi>Rev.</hi> 20. 1.
+<hi>I ſaw an angel come down from heaven, having the
+key of the bottomleſs pit, and a great chain in his hand,
+and he laid hold on the dragon, that old ſerpent, called
+the devil and ſatan, and bound him for a 1000 years.</hi>
+Rev. 18. <hi>I ſaw another angel come down from heaven,
+and he cryed mightily with a ſtrong voice, ſaying<g ref="char:punc">▪</g>
+Babylon the great is fallen, is fallen:</hi> Again, when
+the ſeventh Angel had poured out his Vial into the
+Air, <hi>a great voice came out of the temple of heaven
+from the throne, ſaying, It is done,</hi> enter <hi>Philadel<g ref="char:EOLhyphen"/>phia,</hi>
+in the Name of the Father, Son, and Holy<g ref="char:EOLhyphen"/>Ghoſt,
+the Lord ſent me to bear Record to the
+Word of God, and to the Teſtimony of Jeſus
+Chriſt, <hi>That we are now entered into the Paradice,
+where there is no more curſe; but the Throne of God,
+<pb n="20" facs="tcp:170770:14"/>
+and of the Lamb, are in it, and his ſervants ſhall
+ſerve him; and they ſhall ſee his face, and his name
+ſhall be in their foreheads; and there ſhall be no
+night there, and they need no candle, neither
+the light of the ſon, for the Lord God gives them
+light; and they ſhall reign for ever and ever.</hi> Some
+of theſe things I am forced to bear witneſs too,
+that all the World may know, that the Words of
+the Kingdom are no cunning deviſed Fables, when
+our Bleſſed Lord and<g ref="char:punc">▪</g> Saviour came and wrought
+thoſe Miracles that never Man did, yet they would
+not believe; but ſaid, <hi>He caſt out devils by Beel<g ref="char:EOLhyphen"/>zebub,
+the prince of devils.</hi> What a dreadful Sen<g ref="char:EOLhyphen"/>tence
+he paſſed on them; therefore, ſaid he, <hi>All
+manner of ſins and blaſphemies ſhall be forgiven; but
+the blaſphemy of the Holy-Ghoſt ſhall never be for<g ref="char:EOLhyphen"/>given.</hi>
+You muſt think, God will ſtand up for
+his great Honour and Name; <hi>and call all nations
+together: Who amongſt them can declare this,</hi> Iſa.
+43. 9. Could all the Art in Heaven and Earth
+have cauſed one of theſe Voices to have been heard,
+or Viſions to be ſeen, or one Word of the Prophecy
+of this Book to have been kept, without the om<g ref="char:EOLhyphen"/>nipotent
+power of God. Indeed, we might have
+ſeen theſe things with our bodily Eyes, when they
+had been done to our outward Senſes; but to ſee
+them with Chriſt's ſeven Eyes which are upon the
+Stone, that can be attributed to none but God
+Himſelf. Can you think (without a Commiſſion
+from God) any under the Copes of Heaven durſt be
+<pb n="21" facs="tcp:170770:14"/>
+ſo audacious, as to take his Sacred Name into
+their Mouth, and come and witneſs, and affirm,
+before all the World, <hi>The keeping of the ſayings of
+the prophecy of this book,</hi> when ſuch a dreadful Sen<g ref="char:EOLhyphen"/>tence
+is paſſed on them, <hi>That ſhall add to theſe
+things,</hi> Rev. 22. 18. but ſo great and vaſt are theſe
+Miſteries above the comprehenſion of Men and
+Angels, no Word can utter, or Tongue expreſs;
+what is here delivered, is but a ſhort account of
+ſome few particular things, to be a Teſtimony to
+you of the fulfilling of the whole Book; but you
+muſt look to it, for what comes to you, is the
+Word of God, and Teſtimony of Jeſus Chriſt.</p>
+               <p>
+                  <hi>Object.</hi> But we look for viſible ſenſible things.</p>
+               <p>Anſwer. <hi>That we are bound in Conſcience, be<g ref="char:EOLhyphen"/>cauſe
+of this Word,</hi> every moment to expect the
+great change that comes on the whole world: <hi>but yet,
+if the Word of God, and Teſtimony of Jeſus, be
+not as much aſſurance to me, as theſe viſible ſen<g ref="char:EOLhyphen"/>ſible
+things, how dare we think we ſhall ſee them,
+when</hi> he that takes away from the words of the pro<g ref="char:EOLhyphen"/>phecy
+of this book, God takes his part out of the book
+of life, and out of the holy city, and from the things
+that are written in this book. He that teſtifieth theſe
+things, ſaith, Surely I come quickly. Ariſe, and trim
+your lamps, for he hath witneſſed and teſtified, All is
+done. <hi>You know,</hi> at the firſt creation all was done
+by his word: God ſaid, Let it be ſo, and it was ſo,
+<hi>Gen. 1. Iſa. 48. 13. Heb. 11. 3. Iſa. 45. 12. Zech.</hi>
+4. 6. <hi>Pſal. 33. 6, 9. The reaſon why we ſaw</hi> the
+<pb n="22" facs="tcp:170770:15"/>
+new heaven, and the new earth, <hi>was, That we might
+bear witneſs to the Word of God, and Teſtimony
+of Jeſus Chriſt; this needs not to be done when
+it appears to all the World: The Scripture ſaith,</hi>
+When Christ appears, we ſhall appear with him in
+glory; <hi>therefore that cannot be the time when ſo
+great and wonderful a Controverſie is to be deſided.
+That the Eternal Majeſty of Heaven, that never
+did any thing in vain, ſhould come with ſo many
+Words, and ſuch a ſolemn Oath, read</hi> Revel. 10.
+<hi>bear witneſs, that we do proteſt to you, by the
+Eternal God,</hi> That we have ſeen that mighty angel
+come down from heaven, cloathed with a cloud, and a
+rainbow was upon his head, and an open book in his
+hand: and he hath ſet his right foot upon the ſea,
+and his left foot upon the earth, <hi>Pſal.</hi> 2. 8. And he
+cries, as when a lyon roars, <hi>Mat.</hi> 25. 6. And the an<g ref="char:EOLhyphen"/>gel
+which I ſaw ſtand upon the ſea, and upon the earth,
+hath lift up his hand to heaven, and hath ſworn by him
+that liveth for ever and ever, who created heaven,
+and the things that therein are; the earth, and the
+things that therein are; the ſea, and the things that
+are therein; there ſhall be time no longer: for the
+ſeventh angel hath ſounded, and the miſtery of God
+is finiſhed: <hi>And by the God of Truth,</hi> The king<g ref="char:EOLhyphen"/>doms
+of this world are become the kingdoms of our
+Lord, and of his Christ; and he ſhall reign for ever
+and ever. <hi>Amen. Hallalujah.</hi>
+               </p>
+               <p>Go forth, ye daughters of Zion, and behold king
+Solomon with the crown wherewith his mother crowned
+<pb n="23" facs="tcp:170770:15"/>
+him, in the day of his eſpouſals, and in the day of
+the gladneſs of his heart, <hi>Cant.</hi> 3. 11. Behold, the
+Bridegroom cometh, <hi>Mat.</hi> 25.</p>
+            </div>
+            <div type="song">
+               <head>The New SONG.</head>
+               <l>
+                  <hi>O<g ref="char:V">Ʋ</g>R JESUS</hi> this day is proclaimed,</l>
+               <l>In our Streets he is viſibly Crowned,</l>
+               <l>And highly renowned.</l>
+               <l>Our <hi>JESUS</hi> this Day is proclaimed,</l>
+               <l>In our Streets he is viſibly Crowned,</l>
+               <l>And highly renowned.</l>
+               <l>From the <hi>Eaſt</hi> from the <hi>Weſt,</hi> from the <hi>North</hi> from the <hi>South,</hi>
+               </l>
+               <l>Is the Language I hear in every Mouth,</l>
+               <l>That <hi>JESUS</hi> is King, let's joyfully ſing,</l>
+               <l>Our <hi>JESUS</hi> is King, our <hi>JESUS</hi> is King.</l>
+               <l>That <hi>JESUS,</hi> &amp;c.</l>
+               <l>All Glory, all Glory, all Glory alone,</l>
+               <l>To the Glory that ſits on the glorious Throne.</l>
+               <l>All Glory, <hi>&amp;c.</hi>
+               </l>
+               <l>All Heavenly ſweet Flowers be ſtrewed in his ways,</l>
+               <l>Hallelujahs, Hoſannahs, and Millions of Praiſes.</l>
+               <l>All Glory is due,</l>
+               <l>To the Holy and True,</l>
+               <l>Who ſits on the Throne, and makes all New.</l>
+               <l>
+                  <pb n="24" facs="tcp:170770:16"/>
+Come now to his Temple, ye lookers for <hi>JESUS,</hi>
+               </l>
+               <l>His Honour advance, and his Praiſe in the Dance.</l>
+               <l>Come now to his Temple, <hi>&amp;c.</hi>
+               </l>
+               <l>Break forth into Singing, ye Mountains and Woods,</l>
+               <l>For Joy clap your hands, ye Fountains and Floods.</l>
+               <l>Let Him be ador'd by Angels and Men,</l>
+               <l>And <hi>Zion</hi> adorn'd with her Tabrets again.</l>
+               <l>Let Him, <hi>&amp;c.</hi>
+               </l>
+               <l>Come away to his Courts, ye longers for <hi>JESUS,</hi>
+               </l>
+               <l>His Honour advance, and his Praiſe in the Dance.</l>
+               <l>Come away, <hi>&amp;c.</hi>
+               </l>
+               <l>Break forth into Singing, <hi>&amp;c.</hi>
+               </l>
+               <l>Let Him be adored, <hi>&amp;c.</hi>
+               </l>
+               <l>Come away to his Courts, ye Lovers of <hi>JESUS,</hi>
+               </l>
+               <l>His Honour advance, his Praiſe in the Dance.</l>
+               <l>Come away, <hi>&amp;c.</hi>
+               </l>
+               <l>Break forth, <hi>&amp;c.</hi>
+               </l>
+               <l>Let Him be adored, <hi>&amp;c.</hi>
+               </l>
+            </div>
+            <div type="song">
+               <pb n="25" facs="tcp:170770:16"/>
+               <head>The SONG of Moſes the Ser<g ref="char:EOLhyphen"/>vant
+of God, and the Lamb.</head>
+               <lg>
+                  <l>GREAT and Marvellous are thy Works,</l>
+                  <l>Jehovah working Wonders;</l>
+                  <l>It lightens when our Lord appears,</l>
+                  <l>And when he ſpeaks it thunders.</l>
+                  <l>Moſt Juſt and True are all thy ways,</l>
+                  <l>Thy Saints ſhall bleſs thee all their days;</l>
+                  <l>Thou art our King, they gladly Sing,</l>
+                  <l>Thy Subjects are before Thee.</l>
+                  <l>Moſt Juſt and True, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Had People known thy Glorious Name<g ref="char:punc">▪</g>
+                  </l>
+                  <l>They would have gloried Thee:</l>
+                  <l>For, Lord, thou art that Holy One,</l>
+                  <l>And there is none beſides Thee.</l>
+                  <l>The Nations all ſhall flock and meet<g ref="char:punc">▪</g>
+                  </l>
+                  <l>With bowed Faces at thy Feet,</l>
+                  <l>Thy Judgments ſhew thy Glory now;</l>
+                  <l>Let all the World adore Thee.</l>
+                  <l>The Nations all, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="epigraph">
+               <pb n="26" facs="tcp:170770:17"/>
+               <head>
+                  <bibl>Revelations 22. 16, 17.</bibl>
+               </head>
+               <p>I Jeſus have ſent mine angel, to
+teſtifie unto you theſe things in
+the churches. I am the root
+and off-spring of David, and
+the bright and morning-ſtar.</p>
+               <p>And the Spirit and the Bride
+ſay, Come. And let him that
+heareth, ſay, Come. And let
+him that is athirſt, Come. And
+whoſoever will, let him take
+the water of life freely.</p>
+            </div>
+            <div type="part">
+               <pb n="27" facs="tcp:170770:17"/>
+               <head>The Everlaſting Covenant produced:
+With the OATH of the Eternal God,
+Sworn by Him that lives for ever and ever,</head>
+               <epigraph>
+                  <q>Time is no longer,</q>
+                  <bibl>Rev. 10. 5.</bibl>
+               </epigraph>
+               <epigraph>
+                  <q>I lift up my hand to heaven, and ſay, I live for
+ever and ever,</q>
+                  <bibl>Deuter. 32. 40</bibl>
+               </epigraph>
+               <opener>To the Church of Philadelphia.</opener>
+               <p>THAT, that I am to bear witneſs to you, is
+concerning the <hi>Angels Oath,</hi> which was to
+have a double fulfilment. Firſt, <hi>For a Sign then
+to all the Church of</hi> Philadelphia; ſeveral courſes
+was gone upon in this Bleſſed Miniſtery. Laſt of
+all, <hi>The Glorious Miſtery of God was to be finiſhed.</hi>
+This begun when our Lord was proclaimed
+KING; and it was declared, <hi>Zion's-God now
+reigns: He is upon his great white throne; and there
+was a rainbow round about the throne:</hi> This was
+the time that this <hi>Oath</hi> came upon me, to be a
+Sign to the Church of <hi>Philadelphia,</hi> that God
+remembers the<g ref="char:punc">▪</g> 
+                  <hi>Everlaſting Covenant,</hi> the <hi>Oath</hi> he
+ſwore to <hi>Abraham</hi> that <hi>Oath</hi> &amp; <hi>Covenant</hi> we ſo often
+read of in the Word of God; <hi>At the end of time,
+times, and half a time,</hi> as it is in the laſt of <hi>Daniel.</hi>
+This <hi>Oath</hi> came forth to All the Church of <hi>Phila<g ref="char:EOLhyphen"/>delphia,
+Time ſhall be no longer. The Lord brought
+<pb n="28" facs="tcp:170770:18"/>
+forth his Servant the BRANCH.</hi> Old <hi>Adam</hi>'s
+ſtate is finiſhed. After this, <hi>The Tree of Life,</hi>
+which is in the midſt of the Paradice of God<g ref="char:punc">▪</g> was
+given to the Church of <hi>Philadelphia,</hi> upon the
+Word and Honour of the Eternal God. Now,
+the certainty of our Lord's being at this time on
+his Throne, making every thing New, and more
+particularly, of our being under the New <hi>Adam;</hi>
+becauſe the Righteous BRANCH was now
+brought forth to the houſe of <hi>David; and he is called,
+The</hi> LORD OUR RIGHTEOUSNESS,
+<hi>Jer.</hi> 23. 6.</p>
+               <p>And the Church of <hi>Philadelphia</hi> firſt pertakes
+of the Grace and Glory which comes by the <hi>New
+Adam; For he hath writ on them the name of the
+city of his God;</hi> from theſe things I was as much aſ<g ref="char:EOLhyphen"/>ſured,
+that it was my duty to believe it was as
+God ſaid, (and to take this Righteous BRANCH
+which was now brought forth amongſt us, to make
+us all <hi>New,</hi> Soul and Body) as I was bound to
+keep any of the Commands of God. And again,
+this was confirmed to us, when the Lord's Servant
+came with theſe Words, <hi>Behold the man, whoſe
+name is the<g ref="char:punc">▪</g>
+                  </hi> BRANCH. The Father's Day is
+come, which was hid from Men and Angels. I
+found theſe things ſo ſtrong and weighty, that I
+could not dally with them; for, if I would have
+ſaid, I did not believe, he had brought his firſt
+begotten again into the World, becauſe I did not
+ſee him with my bodily Eyes, my own Conſcience
+<pb n="29" facs="tcp:170770:18"/>
+would have condemned me, for the <hi>Oath</hi> of God
+was writ in my Heart, which he had ſworn to
+<hi>Philadelphia, Time ſhall be no longer: and behold
+the man, whoſe name is the</hi> BRANCH.</p>
+               <p>I knew in my Soul that this was the Word of
+God, that the <hi>Old Adam</hi>'s State was finiſhed, which
+could be done only by the coming of the <hi>New.</hi> I
+muſt own it, in the preſence of God, that he hedged
+me up to theſe things, and put me to that bleſſed
+ſtreight, that I muſt cry out, in the Name of all
+<hi>Philadelphia, Be ye lifted up ye everlaſting doers,
+and the King of glory ſhall come in.</hi> And I Wit<g ref="char:EOLhyphen"/>neſſed
+to them, That the Chriſt of God was not
+only given to us <hi>out of the Father's own hand, in his
+own ſeaſon,</hi> but cloſſed with and received, as he
+was offered in the Word, <hi>in ſure and certain hopes,
+that as we have born the image of the earthly, ſo now
+for ever bear we the image of the heavenly Adam.</hi>
+I Witneſs, that God writ it with an Iron Pen, and
+the point of a Diamond on my Heart. That I
+was finally, eternally, and everlaſtingly acquitted
+and abſolved from all the guilt of Sin and Sorrow
+which came by the firſt <hi>Adam,</hi> having received
+and cloſed with the Righteous BRANCH, as he
+was given out of the Father's own hand; for which
+infinite Grace and Mercy, I proſtrate my ſelf in
+Duſt and Aſhes at his Feet, acknowledging his
+Love and Mercy to be abſolute, grounded wholly
+and eternally on the Merits of his Dear Son, and
+that there is nothing in any Creature. I further
+<pb n="30" facs="tcp:170770:19"/>
+Witneſs, That he enabled me to rely on the In<g ref="char:EOLhyphen"/>fallibility
+of his <hi>Word, Oath,</hi> and <hi>Teſtimony,</hi> which
+from that time ſtood in full force, for the utter
+deſtruction of my Sins and Corruptions. I Wit<g ref="char:EOLhyphen"/>neſs,
+That I came a miſerable, diſtreſſed, tormented
+Wretch, out of the <hi>Old Adam</hi>'s State, ſo that I had
+longed many years for a Grave, not for any out<g ref="char:EOLhyphen"/>ward
+Miſeries, but conſtant wearyings and tirings
+out with a Body of Sin and Death; <hi>And the man,
+whoſe name is the</hi> BRANCH, <hi>that was given out
+of the Father's own hand,</hi> became almoſt glorious
+triumphant Conquerour over the <hi>Old Adam;</hi> and
+for theſe things I bow my Knees to the Almighty,
+and ſhall ſing Praiſe unto my <hi>Zion</hi>'s KING, now
+and ever. <hi>Amen.</hi>
+               </p>
+               <p>I Witneſs, <hi>That I heard a great voice from the
+temple of heaven, from the throne, ſaying, It is done:
+And then he came and writ on me his new name, King
+of kings, and Lord of lords;</hi> and upon this called
+me to take of the water of Life freely: <hi>And he
+ſhewed me a pure river of water of life, clear as
+chriſtal, proceeding out of the throne of God, and of
+the Lamb,</hi> Rev. 22. 1. I Witneſs, I had not only
+an outward Call in the Word, to take theſe <hi>waters
+of life,</hi> but inward Illumination of his Spirit, ac<g ref="char:EOLhyphen"/>cording
+to theſe words, <hi>Rev. 22. 17. The ſpirit,
+ſays, Come.</hi> All Glory to my <hi>Zion</hi>'s JESUS, now
+and ever. And I took of the water of life, and ſhall
+never thirſt more, it is in my Belly a well-ſpring to
+Eternal Life. All Glory to the Lord alone now and
+ever.</p>
+               <p>
+                  <pb n="31" facs="tcp:170770:19"/>
+                  <hi>I Witneſs, That at the ſame time, he ſaid unto
+me,</hi> Behold the man whoſe name is the <hi>BRANCH.</hi>
+See the tree of life placed in the midſt: put forth thy
+hand, fear not, take, eat, and live for ever: <hi>and he
+gave me of the</hi> Tree, <hi>with theſe words,</hi> John 6. 58.
+Not as your fathers eat manna, and are dead: he
+that eateth of this bread, ſhall live for ever. <hi>And
+for all theſe things, Bleſſing, and Honour, and Wiſ<g ref="char:EOLhyphen"/>dom,
+and Strength, and Power, be to our God
+now and ever.</hi> Amen.</p>
+               <p>And there is no more curſe: but the throne of God,
+and the. Lamb ſhall be in it; his ſervants ſhall ſerve
+him. And ſee his face, and his name ſhall be in their
+foreheads. And there ſhall be no night there, they
+need no candle, nor light of the ſun; for the Lord
+God giveth them light, and they ſhall reign for ever,
+<hi>Rev.</hi> 22. 3, 4, 5.</p>
+               <p>
+                  <hi>All Glory to the Lord alone, now and for ever.
+After theſe things, the Lord's ſervant comes and
+tells you, God hath performed his</hi> Oath, There is
+time no longer. And the mighty angel comes down,
+cloathed with a cloud, and a rainbow on his head, his
+face ſhin'd as the ſun, and his feet as pillars of fire.
+And he had in his hand a little book open: and he
+ſet his right foot on the ſea, and his left foot on the
+earth, And cried, as when a lyon roareth: And he
+lift up his hand to heaven, and ſware by him that
+liveth for ever and ever, who created heaven, and
+the things that therein are; the earth, and the
+things that therein are; and the ſea, and the things
+<pb n="32" facs="tcp:170770:20"/>
+that therein are; that there ſhould be time no
+longer, <hi>Rev.</hi> 10. 1, 2, 3, 6.</p>
+               <p>I Witneſs, That on this ſame day, I had a ſtrict
+<hi>Commiſſion</hi> from <hi>God,</hi> to tell you, with other things,
+<hi>That a ſign of deliverance to the Church of</hi> Philadel<g ref="char:EOLhyphen"/>phia,
+ſignified, God's <hi>Oath</hi> to them. The Lord
+tells you, <hi>He hath performed his Oath, and there is
+time no longer;</hi> the <hi>Old Adam</hi>'s ſtate is finiſhed:
+And I do affirm, in the Name of the Eternal God,
+That this is the Witneſs of Him that is Faithful
+and True; and that he doth, hath, and ſhall for
+ever ſway his Kingly Scepter in my Soul, and he
+hath conquered the <hi>Old Adam.</hi>
+               </p>
+               <p>And, once more, in the Name of the Lord, I
+do affirm, for the Honour of his <hi>Word</hi> and <hi>Oath,</hi>
+That<g ref="char:punc">▪</g> he did come down, on this ſame day, with
+a rainbow on his head, as a moſt glorious trium<g ref="char:EOLhyphen"/>phant
+Conquerour over the <hi>Old Adam;</hi> and that
+<hi>he did remove the iniquity of the land in one day,</hi>
+Zech. 3. 9. <hi>And the mountains ſhall depart, and
+the hills be removed; but the covenant of his peace
+ſhall never be removed,</hi> Iſa. 54. 10.</p>
+               <p>I bear witneſs, That poor <hi>Zion</hi> which had lain
+ſo many 100 Years under the Guilt of that Blood
+which they ſhed; and they have this day a foun<g ref="char:EOLhyphen"/>tain
+opened for ſin and uncleanneſs<g ref="char:punc">▪</g> 
+                  <hi>Zech.</hi> 13. 1.
+he hath opened the peoples graves, and the dead
+bodies live again, <hi>Ezek.</hi> 37. 12. I Witneſs, That
+the Redeemer is come to <hi>Zion,</hi> and hath turned
+away ungodlineſs from <hi>Jacob, Iſa.</hi> 5<g ref="char:punc">▪</g> 9. 20. Oh!
+<pb n="33" facs="tcp:170770:20"/>
+with what Adorations of Soul ſhould we worſhip
+that God, that hath remembred his <hi>Covenant</hi> to a
+Thouſand Generations; his Oath to <hi>Abraham,</hi>
+and his Seed for ever. And the whole Creation
+ſhall now break forth into the high Praiſes of
+God, becauſe the Adoption is come, and it is <hi>deli<g ref="char:EOLhyphen"/>vered
+from the bondage of Sin and Corruption, into
+the glorious liberty of the Sons of God,</hi> Rom. 8. 21.
+But oh! how much more ſhould <hi>Philadelphia</hi> be
+night and day at this Work, who hath been ſo
+highly favoured of God, to ſee theſe things with
+the ſeven Eyes that are upon the Stone, before
+there was any viſible appearance in the World;
+thou elect Seed that was to Inherit God's Holy
+Mountain, on whom he hath writ the Names of
+the City of his God, the People that was to be
+born to praiſe him; come and adore before his
+Feet, for thou ſhalt again be <hi>Adorned with Tabrets,
+and ſhall go forth in the Dance,</hi> Jer. 31. 4. for
+that God that hath finiſhed the dark obſcure Sign,
+appears in the bright and glorious Sign: You
+will ſay, Was not the Sign finiſhed before?
+<hi>Anſw.</hi> It is more than two Years ſince the My<g ref="char:EOLhyphen"/>ſtery
+of God began to be fulfilled; and the Lord
+appoints Witneſs from time to time to be given
+in, that ſuch and ſuch things was fulfilled and
+done: And we thought every Word to be the
+Laſt, and that no more was to be done for this
+bleſſed Olive Tree, that had ſo long emptied the
+Oyl through the Pipe into the Candleſtick. God
+<pb n="34" facs="tcp:170770:21"/>
+ſhews him that he was to be removed and ſtand
+in another place; and ſo he tells you he had but
+a very little more to ſay to you; and after this de<g ref="char:EOLhyphen"/>clares,
+That the days of the voice of the ſeventh An<g ref="char:EOLhyphen"/>gel
+are ended, and the Lord receives him to himſelf.
+And then the dark hour comes on <hi>Philadelphia,
+Thy Sons have fainted, they lye as a wild Bull in
+a Net, full of the fury of the Lord,</hi> Iſai. 51. 20.
+The Beaſt that aſcended out of the bottomleſs Pit
+is now permitted to make War, Overcome and
+Kill; alas, what was we able to do! now it was
+God's infinite Mercy, and he alone that enabled
+us to hold what we had received. My dear
+Friends, I drunk with you of this bitter Cup;
+but it was moſt grief to me at the beginning of
+the Sickneſs of the Lord's Servant, and it con<g ref="char:EOLhyphen"/>tinued
+until God had ended his Sorrow: And then
+I was again received into thoſe Joys and Com<g ref="char:EOLhyphen"/>forts
+that I was in before, and ordered to go on
+Witneſſing to things as I had long before. And
+many Ingravenings after this time came upon my
+Soul, from which I was forced to conclude, that
+the Myſtery of God on both parts was not fully
+ended before; for as it was all along, firſt we re<g ref="char:EOLhyphen"/>ceived
+the Word, then God writ-his Law upon
+it. It was Sworn, <hi>Time is no longer;</hi> and this is the
+Witneſs to that <hi>Oath,</hi> and the Ingravenings of God
+that is come upon it. I witneſs, That <hi>Zerub<g ref="char:EOLhyphen"/>babel,</hi>
+that laid the Foundation of this Houſe, his
+hands have finiſhed it, <hi>Zech.</hi> 4. 9. and the Lord
+<pb n="35" facs="tcp:170770:21"/>
+of Hoſts hath ſent him unto us, and now ever<g ref="char:EOLhyphen"/>laſting
+Crowns of Honour and Glory for ever
+ſhine upon his Royal Princely Head, that hath
+laid the top Stone in Glory; Grace, Grace, Come
+away <hi>Philadelphia,</hi> down down upon your Face
+before him that ſits upon the Throne, Worſhip
+the Lamb, that only was found Worthy to open
+the Book to read and look thereon; and every
+Creature in Heaven and Earth, and under the
+Earth, and ſuch ar are in the Sea, heard I, ſay<g ref="char:EOLhyphen"/>ing,
+<hi>Bleſſing, and Honour, and Glory, and Power be
+unto him that ſitteth on the Throne, and unto the
+Lamb for ever and ever,</hi> Rev. 5. 13. And ſo God
+Almighty bleſs you, and turn you into a Rain<g ref="char:EOLhyphen"/>bow,
+for a Sign and Covenant unto <hi>Zion,</hi> and
+all the Churches; and make thee a burning and
+ſhining Candleſtick before the Throne of his
+Glory; to whom be Glory and Dominion now
+and ever. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="testimony">
+               <pb n="36" facs="tcp:170770:22"/>
+               <head>To the Church of Philadelphia.</head>
+               <p>I Bear witneſs this day, That Chriſt is the True
+and Faithful Witneſs; one Word hath not
+failed of all the good things that he hath pro<g ref="char:EOLhyphen"/>miſed.
+<hi>I have overcome only by the blood of the
+Lamb, and no other way have I entered the gates
+into the city, but by the tree of life.</hi> I hate and
+deteſt all mine own righteouſneſs, I loath it as
+filthy raggs, and menſtrous cloaths. I Witneſs
+to you, as one of <hi>Zion</hi>'s Repreſentatives, That I
+have received the fine Linnen, clean and white,
+to be dreſt up for the everlaſting Bridegroom of
+my Soul. The day, the day, the glorious day is
+come, <hi>That he hath raiſed up to David a righteous</hi>
+BRANCH; and this is the Name whereby
+he is called, <hi>The</hi> LORD OUR RIGHTE<g ref="char:EOLhyphen"/>OUSNESS.
+Holy, Holy, Glory, Glory; now
+muſt we contribute to that Everlaſting Hallelu<g ref="char:EOLhyphen"/>jah,
+which ſhall be ſung to free Grace and Mercy
+to all Eternity.</p>
+               <p>
+                  <hi>I Witneſs, That our honoured Friend was the
+true Meſſenger and Fore-runner of the Coming
+and Kingdom of our Lord and Saviour Jeſus
+Chriſt; and what God hath promiſed to the An<g ref="char:EOLhyphen"/>gel
+of the Church of</hi> Philadelphia, <hi>is this day
+performed;</hi> for he hath ſet before him that open
+<pb n="37" facs="tcp:170770:22"/>
+door, which none can ever ſhut. <hi>I alſo Witneſs, That
+there is ſuch a thing,</hi> as entring in through the gate
+into the city. <hi>Rev.</hi> 22. 14. At the gates are twelve
+angels, <hi>Rev.</hi> 21. 12. The walls of the city have
+twelve foundations. <g ref="char:V">Ʋ</g>pon her head was a crown of
+twelve ſtars, <hi>Rev. 12. 1. I Witneſs,</hi> That Christ
+is the door, and none can enter in but by the tree of
+life. He that takes away from the words of the
+book of this prophecy, <hi>is condemned already,</hi> his part
+is took out of the holy city, and of the book of life,
+<hi>Rev.</hi> 22. 19.</p>
+               <p>And now for ever bleſs I God for the Doctrine
+of the Kingdom. O God, thy Teſtimony, and
+the Laws of thy Mouth, have been more to me
+than thouſands of Gold and Silver. My Dear
+<hi>Philadelphia,</hi> Love the Word of God, and Teſti<g ref="char:EOLhyphen"/>mony
+of Jeſus Chriſt; by which abundant en<g ref="char:EOLhyphen"/>trance
+is miniſtered to us into the Everlaſting
+Kingdom of our Lord and Saviour Jeſus Chriſt.
+Glory, Glory.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="testimony">
+               <pb n="38" facs="tcp:170770:23"/>
+               <head>Another Witneſs.</head>
+               <p>I Do Teſtify, in the Name of Jeſus Chriſt, <hi>King
+of kings, and Lord of lords,</hi> That the Lord
+hath remembred his Servant <hi>Jacob,</hi> and hath de<g ref="char:EOLhyphen"/>clared
+and ſaved, and hath given to them the
+Land of <hi>Canaan,</hi> according to his Word, that he
+would ſettle them after their old eſtate, and do
+better for them than at the beginning, <hi>Ezek.</hi> 36.
+11. and that the Adoption is come, and the Glory
+is come, and the Devil is bound, and the <hi>Old Adams</hi>
+State is finiſhed, and all is done, <hi>Rev. 16. 17. And
+time is no longer:</hi> and <hi>the Lord himſelf deſcended
+from heaven with the voice of the arch-angel;</hi> and
+I was Eye-Witneſs of his Majeſty; and for this,
+Bleſſing, Glory, and Thankſgiving, be unto our
+God, and <hi>Zion</hi>'s God; and our King, and <hi>Zion</hi>'s
+King, now and ever, now and ever; Glory, Glory,
+Glory to the Holy and True, that ſate on his
+Throne, and made us all New. I do alſo Teſtifie,
+That then we had a Perſonal Chriſt amongſt us,
+and then <hi>Philadelphia</hi> was called to Sing, and
+Dance, and Rejoyce, becauſe great was the Holy
+One of <hi>Iſrael</hi> in the midſt of us. I alſo do Teſtifie,
+That this Bleſſed Servant, that had <hi>The revelation
+of Jeſus Christ, which God gave to him, to ſhew to
+his ſervants things which muſt ſhortly come to
+<pb n="39" facs="tcp:170770:23"/>
+paſs,</hi> Rev. 1. 1. He hath ſeen the Bleſſed Perſon of
+Chriſt in his Perſonal Glory; and this the Lord
+hath made as plain to me, as any of the great Mi<g ref="char:EOLhyphen"/>ſteries,
+bleſſed be his Holy Name for ever and ever.
+God ſhall have all the Glory for ever, and Chriſt
+ſhall have all the Glory for ever, for there is no<g ref="char:EOLhyphen"/>thing
+in any Creature; for, <hi>All Nations are be<g ref="char:EOLhyphen"/>fore
+him as nothing, and leſs than nothing and vanity.</hi>
+               </p>
+               <p>I will tell you how the Lord was pleaſed to
+make it plain to me: which was,</p>
+               <p>
+                  <hi>Firſt,</hi> He appeared in the Garment the Scrip<g ref="char:EOLhyphen"/>ture
+ſaid he ſhould.</p>
+               <p>
+                  <hi>Secondly,</hi> Becauſe he graciouſly promiſed, that
+his Servants ſhould truſt, and not be afraid, Iſa.
+12. 2. and again, he would appear the ſecond
+time without Sin, to our Salvation.</p>
+               <p>
+                  <hi>Thirdly,</hi> There was ſo much Majeſty ſeen in
+his Face, and yet ſo much Mercy, that his Servant,
+according to his word, was enabled to truſt, and
+not be afraid.</p>
+               <p>I do alſo Teſtifie, in the Name of Jeſus Chriſt,
+<hi>King of kings, and Lord of lords,</hi> That Mr. <hi>Maſon</hi>
+was that faithful and wiſe Steward that is ſpoken
+of in <hi>Luk. 12. 42, 43, 44. And the Lord made him
+ruler over his houſhold, to give them their portion of
+meat in due ſeaſon;</hi> and that this People that have
+received the Revelation of Jeſus Chriſt, is the
+houſhold there ſpoken of; <hi>and he did give us the
+portion of meat in due ſeaſon;</hi> and that the Lord
+hath bleſſed him of a truth, <hi>and made him ruler
+<pb n="40" facs="tcp:170770:24"/>
+over all that he hath.</hi> I do Teſtifie, That the Lord
+hath made him chief Officer in his Kingdom.
+All Glory to the Lord alone, now and ever.
+Thine is the Kingdom, Power, and Glory, now
+and ever, now and ever. <hi>Amen.</hi>
+               </p>
+               <closer>
+                  <signed>Elizabeth Glover.</signed>
+               </closer>
+            </div>
+            <epigraph>
+               <q>Behold, he cometh with clouds, and
+every eye ſhall ſee him, and they alſo
+which pierced him; and all kindreds of
+the earth ſhall wail becauſe of him: even
+ſo, <hi>Amen,</hi>
+               </q>
+               <bibl>
+                  <hi>Rev.</hi> 1. 7.</bibl>
+            </epigraph>
+            <pb facs="tcp:170770:24"/>
+         </div>
+      </body>
+   </text>
+</TEI>
